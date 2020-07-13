@@ -1,4 +1,4 @@
-baseURL = "gentletools.netlify.app"
+baseURL = "gentletools.netlify.app "
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
